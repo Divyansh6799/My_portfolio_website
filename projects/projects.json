@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Resume Generator",
+    "desc": "This web-application create and download your resume in short time. Built using ReactJs, NodeJs, netlify.",
+    "image": "resumegen",
+    "category": "fullstack",
+    "links": {
+      "view": "https://realresumegenerator.netlify.app/",
+      "code": "https://github.com/Divyansh6799/ResumeGen"
+    }
+  },
+  {
+    "name": "Foodie's World",
+    "desc": "The Foodie's World Website is for the Foodie's people who has create and view their recipes. Built using Django Frameworks, sqlite3 and deploy on netlify.",
+    "image": "Foodie's_world",
+    "category": "fullstack",
+    "links": {
+      "view": "https://raw.githubusercontent.com/Divyansh6799/Foodie-s-World-Web-Applications-Django-/master/Screenshot%20(11).png",
+      "code": "https://github.com/Divyansh6799/Foodie-s-World-Web-Applications-Django-"
+    }
+  },
+  {
+    "name": "Library-Management-system",
+    "desc": "A library management software where librarian can add/view/delete books and student can view/issue/return books build on java swing and SQL database.",
+    "image": "lms",
+    "category": "fullstack",
+    "links": {
+      "view": "https://github.com/Divyansh6799/Library-Management-system/blob/master/README.md",
+      "code": "https://github.com/Divyansh6799/Library-Management-system"
+    }
+  },
+  {
+    "name": "Predicting CreditCard Defaulters",
+    "desc": "I have performed exercise including distribution analysis,EDA,model building to identify and predict Credit Card defaults using Customer's data on past payments.",
+    "image": "creditcard",
+    "category": "ml",
+    "links": {
+      "view": "https://identifycreditcarddefaulter.herokuapp.com/",
+      "code": "https://github.com/Divyansh6799/Predicting-Credit-Card-Defaults"
+    }
+  },
+  {
+    "name": "Mask Detection System",
+    "desc": "About Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras.",
+    "image": "face-mask-detection-system",
+    "category": "ml",
+    "links": {
+      "view": "https://raw.githubusercontent.com/Divyansh6799/Mask-detection-system/master/demo/mask_detection_demo_.gif",
+      "code": "https://github.com/Divyansh6799/Mask-detection-system"
+    }
+  },
+  {
+    "name": "Face-recognition attendence system",
+    "desc": "A Face Recognition Attendance System based on facial recognition built using Dlib library, OpenCV and Tkinter.",
+    "image": "face",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/Divyansh6799/Face_recognition_attendence_system/blob/master/attendence.csv",
+      "code": "https://github.com/Divyansh6799/Face_recognition_attendence_system"
+    }
+  },
+  {
+    "name": "Rock_paper_Scissors Game",
+    "desc": "Rock-Paper-Scissors Game Using OpenCv and mediapipe Hand Detector.",
+    "image": "rock_paper_scissors",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/Divyansh6799/Rock_paper_Scissors-using-OpenCv/blob/master/demo.gif",
+      "code": "https://github.com/Divyansh6799/Rock_paper_Scissors-using-OpenCv"
+    }
+  },
+  {
+    "name": "Employee Management System",
+    "desc": "This is Employee Record Management System(ERMS) in pyhton Django ,ERMS use for viewing, maintaining the data of employees.",
+    "image": "ems",
+    "category": "fullstack",
+    "links": {
+      "view": "https://github.com/Divyansh6799/EMS-with-Django/blob/main/README.md",
+      "code": "https://github.com/Divyansh6799/EMS-with-Django"
+    }
+  },
+  {
+    "name": "Virtual Calculator",
+    "desc": "Virtual Calculator using Opencv python,this is based on the computer vision technique and used cvzone HandTrackingModule to track the finger position.",
+    "image": "calci",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/Divyansh6799/Virtual-Calculator/blob/master/20220124_135536.gif",
+      "code": "https://github.com/Divyansh6799/Virtual-Calculator"
+    }
+  },
+  {
+    "name": "windows11 Clone",
+    "desc": "Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web!",
+    "image": "win11",
+    "category": "fullstack",
+    "links": {
+      "view": "https://divyansh6799.github.io/windows11/",
+      "code": "https://github.com/Divyansh6799/windows11"
+    }
+  },
+  {
+    "name": "Squid-game",
+    "desc": "Red light green light game from squid game made using JavaScript and Three.js.",
+    "image": "squid-game",
+    "category": "fullstack",
+    "links": {
+      "view": "https://divyansh6799.github.io/Squid-game/",
+      "code": "https://github.com/Divyansh6799/Squid-game"
+    }
+  },
+  {
+    "name": "supplychain-application",
+    "desc": "Supply Chain Management Using Hyperledger Fabric on hyperledger Composer under the blockchain development.",
+    "image": "hyper",
+    "category": "blockchain",
+    "links": {
+      "view": "https://github.com/Divyansh6799/supplychain-application/blob/master/README.md",
+      "code": "https://github.com/Divyansh6799/supplychain-application"
+    }
+  }
+]

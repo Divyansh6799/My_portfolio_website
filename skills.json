@@ -1,0 +1,98 @@
+[
+    {
+        "name": "C Language",
+        "icon": "https://img.icons8.com/color/48/000000/c.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "AngularJS",
+        "icon": "https://img.icons8.com/color/48/000000/angularjs.png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/000000/django.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "BootStrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    }, 
+    {
+        "name": "ReactJs",
+        "icon": "https://img.icons8.com/offices/2x/react.png"
+    },  
+    {
+        "name": "Sass",
+        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "TensorFlow",
+        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy.png"
+    },
+    {
+        "name": "OpenCv",
+        "icon": "https://img.icons8.com/color/48/000000/opencv.png"
+    },
+    {
+        "name": "ML",
+        "icon": "https://img.icons8.com/color/48/000000/learning.png"
+    },
+    {
+        "name": "AI",
+        "icon": "https://img.icons8.com/color/48/000000/ai.png"
+    },
+    {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/xls.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/linux.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/docker.png"
+    },
+    {
+        "name": "Blockchain",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/blockchain.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }  
+]
