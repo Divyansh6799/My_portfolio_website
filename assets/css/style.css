@@ -215,6 +215,7 @@ header .navbar ul li a:hover {
 .home .image img {
   width: 65%;
   margin-left: 6rem;
+  margin-top: 10rem;
   border-radius: 70%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
