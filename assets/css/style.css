@@ -216,8 +216,8 @@ header .navbar ul li a:hover {
   margin-left: 10rem;
   margin-top: 25rem;
   border-radius: 90%;
-  width: 320px;
-  height: 300px;
+  width: 280px;
+  height: 280px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
