@@ -178,7 +178,7 @@ header .navbar ul li a:hover {
 }
 /* hamburger icon ends */
 
-/* hero section starts*/
+/* home section starts*/
 .home {
   position: relative;
   display: flex;
@@ -209,8 +209,9 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image {
-  flex: 1 1 30rem;
+  flex: 1 1 8rem;
   z-index: 1;
+  height:inherit;
 }
 .home .image img {
   width: 65%;
