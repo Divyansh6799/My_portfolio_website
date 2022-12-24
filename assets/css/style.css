@@ -211,13 +211,12 @@ header .navbar ul li a:hover {
 .home .image {
   flex: 1 1 8rem;
   z-index: 1;
-  height:inherit;
 }
 .home .image img {
-  width: 65%;
+  width: 45%;
   margin-left: 6rem;
   margin-top: 10rem;
-  border-radius: 70%;
+  border-radius: 90%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
