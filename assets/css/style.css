@@ -214,11 +214,11 @@ header .navbar ul li a:hover {
 }
 .home .image img {
   margin-left: 10rem;
-  margin-top: 25rem;
-  margin-right: 35rem;
+  margin-top: 5rem;
+  margin-right: 15rem;
   border-radius: 90%;
-  width: 280px;
-  height: 280px;
+  width: 300px;
+  height: 300px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
