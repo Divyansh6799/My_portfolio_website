@@ -178,7 +178,7 @@ header .navbar ul li a:hover {
 }
 /* hamburger icon ends */
 
-/* hero section starts*/
+/* home section starts*/
 .home {
   position: relative;
   display: flex;
@@ -209,14 +209,16 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image {
-  flex: 1 1 30rem;
+  flex: 1 1 8rem;
   z-index: 1;
 }
 .home .image img {
-  width: 65%;
-  margin-left: 6rem;
-  margin-top: 10rem;
-  border-radius: 70%;
+  margin-left: 10rem;
+  margin-top: 5rem;
+  margin-right: 15rem;
+  border-radius: 90%;
+  width: 300px;
+  height: 300px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
