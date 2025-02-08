@@ -45,7 +45,7 @@
     "image": "face-mask-detection-system",
     "category": "ml",
     "links": {
-      "view": "https://raw.githubusercontent.com/Divyansh6799/Mask-detection-system/master/demo/mask_detection_demo_.gif",
+      "view": "https://github.com/Divyansh6799/Mask-detection-system/blob/master/demo/mask_detection_demo_.gif",
       "code": "https://github.com/Divyansh6799/Mask-detection-system"
     }
   },
@@ -87,36 +87,6 @@
     "links": {
       "view": "https://github.com/Divyansh6799/Virtual-Calculator/blob/master/20220124_135536.gif",
       "code": "https://github.com/Divyansh6799/Virtual-Calculator"
-    }
-  },
-  {
-    "name": "windows11 Clone",
-    "desc": "Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web!",
-    "image": "win11",
-    "category": "fullstack",
-    "links": {
-      "view": "https://divyansh6799.github.io/windows11/",
-      "code": "https://github.com/Divyansh6799/windows11"
-    }
-  },
-  {
-    "name": "Squid-game",
-    "desc": "Red light green light game from squid game made using JavaScript and Three.js.",
-    "image": "squid-game",
-    "category": "fullstack",
-    "links": {
-      "view": "https://divyansh6799.github.io/Squid-game/",
-      "code": "https://github.com/Divyansh6799/Squid-game"
-    }
-  },
-  {
-    "name": "supplychain-application",
-    "desc": "Supply Chain Management Using Hyperledger Fabric on hyperledger Composer under the blockchain development.",
-    "image": "hyper",
-    "category": "blockchain",
-    "links": {
-      "view": "https://github.com/Divyansh6799/supplychain-application/blob/master/README.md",
-      "code": "https://github.com/Divyansh6799/supplychain-application"
     }
   }
 ]
