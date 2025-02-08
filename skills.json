@@ -1,66 +1,62 @@
 [
     {
-        "name": "C Language",
-        "icon": "https://img.icons8.com/color/48/000000/c.png"
-    },
-    {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-    },
-    {
-        "name": "AngularJS",
-        "icon": "https://img.icons8.com/color/48/000000/angularjs.png"
-    },
-    {
-        "name": "Django",
-        "icon": "https://img.icons8.com/color/48/000000/django.png"
-    },
-    {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name": "BootStrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    }, 
-    {
-        "name": "ReactJs",
-        "icon": "https://img.icons8.com/offices/2x/react.png"
-    },  
-    {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
     },
     {
         "name": "SQL",
         "icon": "https://img.icons8.com/color/48/000000/sql.png"
     },
     {
+        "name": "R",
+        "icon": "https://img.icons8.com/?size=50&id=CLvQeiwFpit4&format=png&color=000000"
+    },
+    {
+        "name": "Big Query",
+        "icon": "https://img.icons8.com/?size=50&id=LuhIs6LiDYwT&format=png&color=000000"
+    },
+    {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "name": "Excel",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/xls.png"
     },
     {
-        "name": "TensorFlow",
-        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/?size=50&id=9Kvi1p1F0tUo&format=png&color=000000"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p&format=png&color=000000"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/?size=50&id=xSkewUSqtErH&format=png&color=000000"
     },
     {
         "name": "Numpy",
         "icon": "https://img.icons8.com/color/48/000000/numpy.png"
     },
     {
+        "name": "ETL",
+        "icon": "https://img.icons8.com/?size=50&id=WkAsYsArs9Sc&format=png&color=1169ae"
+    },
+    {
+        "name": "TensorFlow",
+        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
+    },
+    {
+        "name": "NLP",
+        "icon": "https://img.icons8.com/?size=50&id=qGm5NPoTt8SR&format=png&color=1169ae"
+    },
+    {
         "name": "OpenCv",
         "icon": "https://img.icons8.com/color/48/000000/opencv.png"
     },
     {
-        "name": "ML",
+        "name": "ML Algorithm",
         "icon": "https://img.icons8.com/color/48/000000/learning.png"
     },
     {
@@ -68,8 +64,12 @@
         "icon": "https://img.icons8.com/color/48/000000/ai.png"
     },
     {
-        "name": "Excel",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/xls.png"
+        "name": "Rest API",
+        "icon": "https://img.icons8.com/?size=50&id=21895&format=png&color=000000"
+    },
+    {
+        "name": "Oracle Cloud",
+        "icon": "https://img.icons8.com/?size=50&id=39913&format=png&color=000000"
     },
     {
         "name": "Linux",
@@ -80,16 +80,8 @@
         "icon": "https://img.icons8.com/ios-filled/48/1169ae/docker.png"
     },
     {
-        "name": "Blockchain",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/blockchain.png"
-    },
-    {
         "name": "AWS",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    },
-    {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
     },
     {
         "name": "GitHub",
